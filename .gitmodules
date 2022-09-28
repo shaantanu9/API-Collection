@@ -4,3 +4,6 @@
 [submodule "Myntra-API"]
 	path = Myntra-API
 	url = https://github.com/shaantanu9/Myntra-API
+[submodule "AJIO-API"]
+	path = AJIO-API
+	url = https://github.com/shaantanu9/AJIO-API
