@@ -1,0 +1,6 @@
+[submodule "Boat-API"]
+	path = Boat-API
+	url = https://github.com/shaantanu9/Boat-API
+[submodule "myntra-API-Json_server"]
+	path = myntra-API-Json_server
+	url = https://github.com/shaantanu9/myntra-API-Json_server
