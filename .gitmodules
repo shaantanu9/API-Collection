@@ -7,3 +7,6 @@
 [submodule "AJIO-API"]
 	path = AJIO-API
 	url = https://github.com/shaantanu9/AJIO-API
+[submodule "indeed-API"]
+	path = indeed-API
+	url = https://github.com/shaantanu9/indeed-API
