@@ -13,3 +13,6 @@
 [submodule "pharmeasy-API"]
 	path = pharmeasy-API
 	url = https://github.com/shaantanu9/pharmeasy-API
+[submodule "kfc-API"]
+	path = kfc-API
+	url = https://github.com/shaantanu9/kfc-API
