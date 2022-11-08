@@ -10,3 +10,6 @@
 [submodule "indeed-API"]
 	path = indeed-API
 	url = https://github.com/shaantanu9/indeed-API
+[submodule "pharmeasy-API"]
+	path = pharmeasy-API
+	url = https://github.com/shaantanu9/pharmeasy-API
