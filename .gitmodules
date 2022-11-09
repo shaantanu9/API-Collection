@@ -28,3 +28,6 @@
 [submodule "olx-API"]
 	path = olx-API
 	url = https://github.com/shaantanu9/olx-API
+[submodule "sephora-API"]
+	path = sephora-API
+	url = https://github.com/shaantanu9/sephora-API
