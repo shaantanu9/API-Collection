@@ -16,3 +16,15 @@
 [submodule "kfc-API"]
 	path = kfc-API
 	url = https://github.com/shaantanu9/kfc-API
+[submodule "naukri-API"]
+	path = naukri-API
+	url = https://github.com/shaantanu9/naukri-API
+[submodule "Farfetch-API"]
+	path = Farfetch-API
+	url = https://github.com/shaantanu9/Farfetch-API
+[submodule "Asos-API"]
+	path = Asos-API
+	url = https://github.com/shaantanu9/Asos-API
+[submodule "olx-API"]
+	path = olx-API
+	url = https://github.com/shaantanu9/olx-API
